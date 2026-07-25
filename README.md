@@ -13,15 +13,3 @@ Estudiante de Ingeniería Informática apasionado por el desarrollo de software,
 ### 📫 ¿Cómo contactarme?
 * [LinkedIn]https://www.linkedin.com/in/adrian-campos-vargas-355286310/
 * [Correo electrónico]adriancamposvargas4@gmail.com
-
-<!--START_SECTION:waka-->
-
-```rust
-From: 24 July 2026 - To: 24 July 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
