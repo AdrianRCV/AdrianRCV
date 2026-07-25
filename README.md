@@ -16,4 +16,12 @@ Estudiante de Ingeniería Informática apasionado por el desarrollo de software,
 
 <!--START_SECTION:waka-->
 
+```rust
+From: 24 July 2026 - To: 24 July 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
